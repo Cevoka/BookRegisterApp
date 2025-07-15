@@ -1,0 +1,14 @@
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/bin/Debug/net8.0/BookRegisterApp
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/bin/Debug/net8.0/BookRegisterApp.deps.json
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/bin/Debug/net8.0/BookRegisterApp.runtimeconfig.json
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/bin/Debug/net8.0/BookRegisterApp.dll
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/bin/Debug/net8.0/BookRegisterApp.pdb
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/BookRegisterApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/BookRegisterApp.AssemblyInfoInputs.cache
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/BookRegisterApp.AssemblyInfo.cs
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/BookRegisterApp.csproj.CoreCompileInputs.cache
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/BookRegisterApp.dll
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/refint/BookRegisterApp.dll
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/BookRegisterApp.pdb
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/BookRegisterApp.genruntimeconfig.cache
+/Users/solventyazilim/RiderProjects/BookRegisterApp/BookRegisterApp/obj/Debug/net8.0/ref/BookRegisterApp.dll
